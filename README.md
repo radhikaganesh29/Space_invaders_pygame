@@ -6,6 +6,9 @@ This is a simple Space Invaders game implemented in Python using Pygame library.
 
 Space Invaders is a classic arcade game where the player controls a spaceship, tasked with shooting down waves of alien enemies while avoiding their projectiles. The game ends if an enemy collides with the player's spaceship or if the player successfully shoots down all enemies on the screen.
 
+<img width="803" alt="Screenshot 2024-06-26 at 11 17 14 AM" src="https://github.com/radhikaganesh29/Space_invaders_pygame/assets/158646026/85147a83-c2ac-4673-942f-2f8574303bee">
+
+
 ## Features
 
 - Player spaceship controlled using arrow keys (left and right) for movement and spacebar to shoot.
